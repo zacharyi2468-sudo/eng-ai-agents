@@ -4,7 +4,7 @@
 **Date of submission:** 9/27/2026
 
 ## How to run the notebook
-1. Open `[your-notebook-name].ipynb` in Google Colab (or locally with Python 3 and Jupyter).
+1. Open `Copy_of_grid_anomaly_detection.ipynb` in Google Colab (or locally with Python 3 and Jupyter).
 2. Install dependencies: `pip install gridstatusio python-dotenv numpy pandas matplotlib`
 3. Provide a gridstatus.io API key as `GRIDSTATUS_API_KEY`:
    - Colab: add it in the Secrets panel (key icon) and run the first cell.
